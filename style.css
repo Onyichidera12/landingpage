@@ -1,0 +1,156 @@
+.innercontainer{
+    max-width:1280px;
+    margin: 0 auto;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    width: 1280px
+}
+
+.rectangle{
+    display: grid;
+}
+.rectangle>img+img{
+ margin-top: 4.5px;
+}
+
+h4{
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+
+
+.cart{
+    width: 22px;
+    height: 18px;
+}
+
+.list{
+    display: flex;
+    align-items:center ;
+    font-size: 18px;
+    list-style: none;}
+
+   #login{
+    margin-left: 10px;
+   }
+
+.button{
+    margin-right: 100px;
+    padding:10px 52px ;
+}
+
+   .comprar{
+    margin: 10px 52px;
+    padding: 10px 52px;
+
+}
+
+   .arrow{
+    display: flex;
+    align-items: center;
+}
+
+.arrowhead{
+    width: 25px;
+    height: 25px;
+
+}
+.arrow1{justify-content: end;
+    padding-right: 233px;
+}
+
+.arrow2{
+    padding-top: 50px;
+    margin-right: 20px;
+}
+
+
+#idparagraph{
+    font-size: 28px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'inter',sans-serif;
+     padding-bottom: 15px;
+    }
+
+    .paragraph{
+        font-size: 16px;
+        font-weight: 400;
+        font-style: normal; }
+
+        ul{
+            list-style:none ;
+        }
+
+        .div{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+     .span{
+            display: flex;
+            justify-content: center;
+            padding-top: 25px;
+        }
+
+      .span> p+p{
+            margin-left: 10px;
+        }
+        
+
+       .card{
+    height: 752px;
+    padding-top: 50px;
+     }
+
+    .container{
+        max-width: 1160px;
+        margin:0 auto;
+    }
+                 .card> div+div{
+                    padding-top: 60px;
+                 }
+        
+
+    .img2{
+        height: 230px;
+        width: 234px;
+        padding-left: 22px;
+    }
+
+        .image1{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .box{
+            display: grid;
+            background-color: #f3f3f3;
+            width: 289px;
+            height: 448px;
+            text-align: center}
+
+        .vector{
+            padding-left:247px ;
+            width: 24px;
+            height: 21px;
+        }
+
+        .lastbox{
+            display: grid;
+            margin-bottom: 255px;
+           text-align: center;
+            background-color: #f3f3f3;
+            width: 289px;
+            height: 448px;
+        }
+        
